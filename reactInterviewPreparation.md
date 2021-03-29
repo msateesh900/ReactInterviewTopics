@@ -7,7 +7,7 @@
 |   | **Core React** |
 |1  | [ What is React and why it is so popular now a days?](#what-is-react) |
 |2  | [What you like and dislike in react?](#What-you-like-and-dislike-in-react) |
-|3  | [condtional rendering in react?](#conditional-rendering-in-react) |
+|3  | [condtional rendering and list rendering in react?](#conditional-rendering-in-react) |
 
 
 
@@ -26,6 +26,10 @@
    **[⬆ Back to Top](#table-of-contents)**
 
 3. ### condtional rendering in react?
+
+    Explanation about conditional rendering and list rendring and their differences.
+    What is the significance of having the key prop when rendering a list of elements ?
+    What is a potential bug that you can introduce when using index as key ?
 
    
 
