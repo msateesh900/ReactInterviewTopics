@@ -5,7 +5,7 @@
 | No. | Questions |
 | --- | --------- |
 |   | **Core React** |
-|1  | [ What is React and why it is so popular now a days?](#what-is-react) |
+|1  | [What is React?](#what-is-react) |
 |2  | [What you like and dislike in react?](#What-you-like-and-dislike-in-react) |
 |3  | [condtional rendering and list rendering in react?](#conditional-list-rendering-in-react) |
 |4  | [Class components life cycle methods along with new lifecycle methods(after 16.8) in react?](#class-component-life-cycle-in-react) |
@@ -19,7 +19,7 @@
 
 ## Core React
     
-1. ###  What is React and why it is so popular now a days?
+1. ###  What is React?
 
     React is an **open-source frontend JavaScript library** which is used for building user interfaces especially for single page applications. It is used for handling view layer for web and mobile apps. React was created by [Jordan Walke](https://github.com/jordwalke), a software engineer working for Facebook. React was first deployed on Facebook's News Feed in 2011 and on Instagram in 2012.
 
